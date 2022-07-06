@@ -1,9 +1,9 @@
-<img width="100%" src="/J4o.gif"></img>
+<img width="100%" height="50%" src="/J4o.gif"></img>
 
 <img src="https://media.giphy.com/media/W9VeKPg5t9jJhq2o4k/giphy.gif" width= "300" align="right"/>  
 #
 
-- 👋 Hi, I’m @olgaTsybikova, I´m a fullstack web developer.
+- 👋 Hi, I’m @OlgaTsybikova, I´m a fullstack web developer.
 - 🌱 I’m currently expanding my knowledge in new technologies.
 
 ## 💻 I work with
